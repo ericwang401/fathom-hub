@@ -1,6 +1,8 @@
 --[[
 	Hi guys, thanks for checking out my code. This comment was not part of the original code that existed in here.
 
+	The code here was the stable build where I left it. Due to many changes in Roblox's internals, this code might break.
+
 	-- Syntax#9468     4/19/2020 1:13:14 PM  Chicago Time Zone
 ]]
 
