@@ -1,5 +1,5 @@
-# fathom-hub-v1
-The first version of Fathom hub that set a precedent on all script hubs
+# fathom-hub
+The script hub that __used__ to set a precedent on all script hubs
 
 
 # License
