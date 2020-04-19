@@ -22,4 +22,5 @@ The developers of Fathom Hub are NOT responsible for your actions involving this
 If your reason does not fit the support category and is a general inquiry for me, please contact me using the following details below:
 
 Discord - Syntax#9468
+
 https://revenact.io/ - Syntax
